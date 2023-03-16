@@ -26,5 +26,4 @@
   <a href="https://www.instagram.com/davi_lkj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
 
-![snake gif](https://github.com/davilkj/davilkj/blob/output/github-contribution-grid-snake.svg)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=davilkj&bg_color=1a1b27&color=be90f2&line=628fdb&point=628fdb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
